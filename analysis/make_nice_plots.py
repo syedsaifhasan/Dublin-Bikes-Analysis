@@ -8,7 +8,7 @@ import time
 import datetime
 import matplotlib.pylab as plt
 from matplotlib import dates
-
+dfsdfsdfsdf
 #paths = ["mean_and_std_2015-09-25_to_2015-10-20_weekdays.dat","mean_and_std_2015-09-25_to_2015-10-20_weekends.dat"]
 
 paths = ["mean_and_std_2015-09-25_to_2015-10-20_weekdays.dat"]
